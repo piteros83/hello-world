@@ -1,2 +1,13 @@
 # hello-world
-first repo
+# first repo
+
+#Hi,
+#I like python, do You?:)
+#   Y
+# ((|))
+#   (
+#    )
+#   (  
+#    )
+#   (
+#    )
